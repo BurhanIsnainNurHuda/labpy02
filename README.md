@@ -20,3 +20,9 @@ Algoritma:
 
 Program Python:    
 ![IMG_20241028_184813](https://github.com/user-attachments/assets/9bec1072-82a3-4011-b637-688448b246f4)
+
+
+Hasil Eksekusi Program:
+
+    1. Input Valid - Tiket Reguler dengan Member
+![IMG_20241028_191602](https://github.com/user-attachments/assets/d162e7fa-bd5e-48f9-9a2c-5199811cf9a2)
