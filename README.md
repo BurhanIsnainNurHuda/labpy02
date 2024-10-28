@@ -26,3 +26,10 @@ Hasil Eksekusi Program:
 
     1. Input Valid - Tiket Reguler dengan Member
 ![IMG_20241028_191602](https://github.com/user-attachments/assets/d162e7fa-bd5e-48f9-9a2c-5199811cf9a2)
+
+    2. Input Valid - Tiket VIP tanpa Member
+![IMG_20241028_192725](https://github.com/user-attachments/assets/879d1a93-b6f5-4129-b3fc-b80d4e1332cd)
+
+    3.Input Valid - Tiket VIP dengan Member
+![IMG_20241028_193015](https://github.com/user-attachments/assets/b0dbc81c-402f-4508-9ced-5c3e7a02837a)
+    
