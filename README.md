@@ -33,3 +33,8 @@ Hasil Eksekusi Program:
     3.Input Valid - Tiket VIP dengan Member
 ![IMG_20241028_193015](https://github.com/user-attachments/assets/b0dbc81c-402f-4508-9ced-5c3e7a02837a)
     
+    4.Input Valid - Tiket Reguler tanpa Member
+![IMG_20241028_193412](https://github.com/user-attachments/assets/ea652cd0-ed86-475a-988e-8e52663474d9)
+
+    5.Input Tidak Valid - Tipe Tiket Salah
+    
