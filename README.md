@@ -37,4 +37,17 @@ Hasil Eksekusi Program:
 ![IMG_20241028_193412](https://github.com/user-attachments/assets/ea652cd0-ed86-475a-988e-8e52663474d9)
 
     5.Input Tidak Valid - Tipe Tiket Salah
+![IMG_20241028_193808](https://github.com/user-attachments/assets/033e8af0-cf7f-4ef4-a68b-fd8e67ec06f2)
+    
+    6. Input Tidak Valid - Status Member Salah
+![IMG_20241028_194039](https://github.com/user-attachments/assets/58a034c6-6b3c-40b6-9b50-b2036fc03850)
+
+Penjelasan:
+
+    •Input status member tidak sesuai
+    •Program menganggap sebagai non-member
+    •Harga normal tanpa diskon
+   
+    Tabel Ringkasan Input-Output:
+![IMG_20241028_194348](https://github.com/user-attachments/assets/4db494b3-271f-4553-ad93-f1d8c16a75d2)
     
