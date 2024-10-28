@@ -38,11 +38,35 @@ Penjelasan:
     2. Input Valid - Tiket VIP tanpa Member
 ![IMG_20241028_192725](https://github.com/user-attachments/assets/879d1a93-b6f5-4129-b3fc-b80d4e1332cd)
 
+Penjelasan:
+
+    •Input: tipe tiket = vip, status = tidak
+    •Harga awal: Rp100,000
+    •Tidak ada diskon
+    •Total bayar: Rp100,000
+•
+
     3.Input Valid - Tiket VIP dengan Member
 ![IMG_20241028_193015](https://github.com/user-attachments/assets/b0dbc81c-402f-4508-9ced-5c3e7a02837a)
+
+Penjelasan:
+
+    •Input: tipe tiket = vip, status = ya
+    •Harga awal: Rp100,000
+    •Diskon 20%: Rp20,000
+    •Total bayar: Rp80,000
+•    
     
     4.Input Valid - Tiket Reguler tanpa Member
 ![IMG_20241028_193412](https://github.com/user-attachments/assets/ea652cd0-ed86-475a-988e-8e52663474d9)
+
+Penjelasan:
+
+    •Input: tipe tiket = reguler, status = tidak
+    •Harga awal: Rp50,000
+    •Tidak ada diskon
+    •Total bayar: Rp50,000
+•
 
     5.Input Tidak Valid - Tipe Tiket Salah
 ![IMG_20241028_193808](https://github.com/user-attachments/assets/033e8af0-cf7f-4ef4-a68b-fd8e67ec06f2)
