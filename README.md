@@ -17,8 +17,13 @@ Algoritma:
     7.Jika status member = ya, hitung diskon 20%
     8.Tampilkan total harga
     9.Selesai
+    
+Flowchart:
 
-Program Python:    
+![IMG_20241028_210413](https://github.com/user-attachments/assets/b9fa3e93-b1bb-4f9d-9186-a3cdab7e1538)
+
+Program Python:   
+
 ![IMG_20241028_184813](https://github.com/user-attachments/assets/9bec1072-82a3-4011-b637-688448b246f4)
 
 
