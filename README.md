@@ -133,7 +133,7 @@ Algoritma:
     
 Penjelasan Algoritma:
 
-    Langkah 1-4: Program mulai dengan meminta input dari pengguna untuk dua angka dan satu operator.
+    Langkah 1-4: Program mulai dengan meminta input untuk dua angka dan satu operator.
     Langkah 5: Melakukan operasi aritmatika berdasarkan operator yang dipilih. Program menggunakan struktur kontrol `if`, `elif`, dan `else` untuk menentukan operasi yang harus dilakukan.
     Langkah 6: Jika operasi berhasil, hasilnya ditampilkan. Jika ada kesalahan (seperti pembagian dengan nol atau operator tidak valid), program akan menampilkan pesan kesalahan yang sesuai.
     Langkah 7: Program selesai setelah menampilkan hasil atau pesan kesalahan.
@@ -153,13 +153,13 @@ Penjelasan:
 
 Input:
 
-    Angka pertama yang dimasukkan adalah 10.
-    Angka kedua yang dimasukkan adalah 5.
+    Angka pertama yang dimasukkan adalah `10`.
+    Angka kedua yang dimasukkan adalah `5`.
     Operator yang dipilih adalah + (penjumlahan).
     
 Output:
 
-    Hasil dari operasi 10 + 5 adalah 15.0. Program menampilkan hasil ini kepada pengguna.
+    Hasil dari operasi `10 + 5` adalah `15.0`. Program menampilkan hasil ini kepada pengguna.
 
 . 
 
@@ -171,13 +171,13 @@ Penjelasan:
 
 Input:
 
-    Angka pertama yang dimasukkan adalah 10.
-    Angka kedua yang dimasukkan adalah 5.
-    Operator yang dipilih adalah - (pengurangan).
+    Angka pertama yang dimasukkan adalah `10`.
+    Angka kedua yang dimasukkan adalah `5`.
+    Operator yang dipilih adalah `-` (pengurangan).
     
 Output:
 
-    Hasil dari operasi 10 - 5 adalah 5.0. Program menampilkan hasil ini kepada pengguna.
+    Hasil dari operasi `10 - 5` adalah `5.0`. Program menampilkan hasil ini kepada pengguna.
 
 •    
 
@@ -189,13 +189,13 @@ Penjelasan:
 
 Input:
 
-    Angka pertama yang dimasukkan adalah 10.
-    Angka kedua yang dimasukkan adalah 5.
-    Operator yang dipilih adalah * (perkalian).
+    Angka pertama yang dimasukkan adalah `10`.
+    Angka kedua yang dimasukkan adalah `5`.
+    Operator yang dipilih adalah `*` (perkalian).
 
 Output:
 
-    Hasil dari operasi 10 * 5 adalah 50.0. Program menampilkan hasil ini kepada pengguna.
+    Hasil dari operasi `10 * 5` adalah `50.0`. Program menampilkan hasil ini kepada pengguna.
 
 •    
 
@@ -207,13 +207,13 @@ Penjelasan:
 
 Input:
 
-    Angka pertama yang dimasukkan adalah 10.
-    Angka kedua yang dimasukkan adalah 2.
-    Operator yang dipilih adalah / (pembagian).
+    Angka pertama yang dimasukkan adalah `10`.
+    Angka kedua yang dimasukkan adalah `2`.
+    Operator yang dipilih adalah `/` (pembagian).
 
 Output:
 
-    Hasil dari operasi 10 / 2 adalah 5.0. Program menampilkan hasil ini kepada pengguna.
+    Hasil dari operasi `10 / 2` adalah `5.0`. Program menampilkan hasil ini kepada pengguna.
 
 •
 
@@ -225,9 +225,9 @@ Penjelasan:
 
 Input:
 
-    Angka pertama yang dimasukkan adalah 10.
-    Angka kedua yang dimasukkan adalah 0.
-    Operator yang dipilih adalah / (pembagian).
+    Angka pertama yang dimasukkan adalah `10`.
+    Angka kedua yang dimasukkan adalah `0`.
+    Operator yang dipilih adalah `/` (pembagian).
 Output:
 
     Karena pembagian dengan nol tidak diperbolehkan dalam matematika, program menampilkan pesan kesalahan: "Error: Pembagian dengan nol tidak diperbolehkan." Ini menunjukkan bahwa program memiliki penanganan kesalahan untuk situasi ini.
@@ -242,9 +242,9 @@ Penjelasan:
 
 Input:
 
-    Angka pertama yang dimasukkan adalah 10.
-    Angka kedua yang dimasukkan adalah 5.
-    Operator yang dipilih adalah x, yang bukan merupakan operator aritmatika yang valid.
+    Angka pertama yang dimasukkan adalah `10`.
+    Angka kedua yang dimasukkan adalah `5`.
+    Operator yang dipilih adalah `x`, yang bukan merupakan operator aritmatika yang valid.
 
 Output:
 
