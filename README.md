@@ -184,8 +184,6 @@ Output:
     Contoh 3 Perkalian:
 
 ![IMG_20241029_222938](https://github.com/user-attachments/assets/d29d0cfc-5434-4f7f-9d8a-73cfb6dfc50a)
-    
-Penjelasan:
 
 Penjelasan:
 
@@ -198,3 +196,39 @@ Input:
 Output:
 
     Hasil dari operasi 10 * 5 adalah 50.0. Program menampilkan hasil ini kepada pengguna.
+
+•    
+
+    Contoh 4 Pembagian:
+
+![IMG_20241029_223411](https://github.com/user-attachments/assets/d221a6a2-1e95-4cf7-b79d-dcb52319a9c3)
+
+Penjelasan:
+
+Input:
+
+    Angka pertama yang dimasukkan adalah 10.
+    Angka kedua yang dimasukkan adalah 2.
+    Operator yang dipilih adalah / (pembagian).
+
+Output:
+
+    Hasil dari operasi 10 / 2 adalah 5.0. Program menampilkan hasil ini kepada pengguna.
+
+•
+
+    Contoh 5 Pembagian dengan Nol:
+
+![IMG_20241029_223734](https://github.com/user-attachments/assets/334b14f1-c0e1-47d0-acd7-a6a4366e6363)
+
+Penjelasan:
+
+Input:
+
+    Angka pertama yang dimasukkan adalah 10.
+    Angka kedua yang dimasukkan adalah 0.
+    Operator yang dipilih adalah / (pembagian).
+Output:
+
+    Karena pembagian dengan nol tidak diperbolehkan dalam matematika, program menampilkan pesan kesalahan: "Error: Pembagian dengan nol tidak diperbolehkan." Ini menunjukkan bahwa program memiliki penanganan kesalahan untuk situasi ini.
+    
