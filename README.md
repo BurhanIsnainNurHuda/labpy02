@@ -106,26 +106,26 @@ Algoritma:
     1. Start
     2. Input Angka Pertama
        •Tampilkan pesan: "Masukkan angka pertama:"
-       •Simpan input pengguna sebagai angka1
+       •Simpan input sebagai `angka1`
     3. Input Angka Kedua
        •Tampilkan pesan: "Masukkan angka kedua:"
-       •Simpan input pengguna sebagai angka2
+       •Simpan input pengguna sebagai `angka2`
     4. Input Operator
        •Tampilkan pesan: "Masukkan operator (+, -, *, /):"
-       •Simpan input pengguna sebagai operator
+       •Simpan input sebagai `operator`
     5. Proses Operasi
-       •Jika operator adalah +:
-         •Hitung hasil = angka1 + angka2
-       •Jika operator adalah -:
-         •Hitung hasil = angka1 - angka2
-       •Jika operator adalah *:
-         •Hitung hasil = angka1 * angka2
+       •Jika `operator` adalah `+`:
+         •Hitung `hasil = angka1 + angka2`
+       •Jika `operator` adalah `-`:
+         •Hitung `hasil = angka1 - angka2`
+       •Jika `operator` adalah `*`:
+         •Hitung `hasil = angka1 * angka2`
        •Jika operator adalah /:
-         •Jika angka2 tidak sama dengan 0:
-           •Hitung hasil = angka1 / angka2
-       •Jika angka2 sama dengan 0:
+         •Jika `angka2` tidak sama dengan 0:
+           •Hitung `hasil = angka1 / angka2`
+       •Jika `angka2` sama dengan 0:
          •Tampilkan pesan error: "Error: Pembagian dengan nol tidak diperbolehkan."
-       •Jika operator tidak valid (bukan salah satu dari +, -, *, /):
+       •Jika `operator` tidak valid (bukan salah satu dari +, -, *, /):
          •Tampilkan pesan error: "Error: Operator tidak valid."
     6. Output Hasil
         •Jika operasi berhasil (tanpa error), tampilkan hasil: "Hasil: {hasil}"
@@ -134,7 +134,7 @@ Algoritma:
 Penjelasan Algoritma:
 
     Langkah 1-4: Program mulai dengan meminta input dari pengguna untuk dua angka dan satu operator.
-    Langkah 5: Melakukan operasi aritmatika berdasarkan operator yang dipilih. Program menggunakan struktur kontrol if, elif, dan else untuk menentukan operasi yang harus dilakukan.
+    Langkah 5: Melakukan operasi aritmatika berdasarkan operator yang dipilih. Program menggunakan struktur kontrol `if`, `elif`, dan `else` untuk menentukan operasi yang harus dilakukan.
     Langkah 6: Jika operasi berhasil, hasilnya ditampilkan. Jika ada kesalahan (seperti pembagian dengan nol atau operator tidak valid), program akan menampilkan pesan kesalahan yang sesuai.
     Langkah 7: Program selesai setelah menampilkan hasil atau pesan kesalahan.
     
