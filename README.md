@@ -231,4 +231,21 @@ Input:
 Output:
 
     Karena pembagian dengan nol tidak diperbolehkan dalam matematika, program menampilkan pesan kesalahan: "Error: Pembagian dengan nol tidak diperbolehkan." Ini menunjukkan bahwa program memiliki penanganan kesalahan untuk situasi ini.
+
+•
     
+    Contoh 6 Operator Tidak Valid:
+
+![IMG_20241029_224005](https://github.com/user-attachments/assets/e39587f4-4ef3-46d7-9121-3510db0c0944)
+
+Penjelasan:
+
+Input:
+
+    Angka pertama yang dimasukkan adalah 10.
+    Angka kedua yang dimasukkan adalah 5.
+    Operator yang dipilih adalah x, yang bukan merupakan operator aritmatika yang valid.
+
+Output:
+
+    Program menampilkan pesan kesalahan: "Error: Operator tidak valid." Ini menunjukkan bahwa program dapat menangani input yang tidak sesuai dengan operator yang diharapkan.    
