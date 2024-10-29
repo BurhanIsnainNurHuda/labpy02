@@ -138,6 +138,9 @@ Penjelasan Algoritma:
     Langkah 6: Jika operasi berhasil, hasilnya ditampilkan. Jika ada kesalahan (seperti pembagian dengan nol atau operator tidak valid), program akan menampilkan pesan kesalahan yang sesuai.
     Langkah 7: Program selesai setelah menampilkan hasil atau pesan kesalahan.
 
+Flowchart: 
+
+
 Program Python:
 
 ![IMG_20241029_221708](https://github.com/user-attachments/assets/682656f3-3d21-43ef-8169-12afcb23cde2)
