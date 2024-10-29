@@ -137,4 +137,64 @@ Penjelasan Algoritma:
     Langkah 5: Melakukan operasi aritmatika berdasarkan operator yang dipilih. Program menggunakan struktur kontrol `if`, `elif`, dan `else` untuk menentukan operasi yang harus dilakukan.
     Langkah 6: Jika operasi berhasil, hasilnya ditampilkan. Jika ada kesalahan (seperti pembagian dengan nol atau operator tidak valid), program akan menampilkan pesan kesalahan yang sesuai.
     Langkah 7: Program selesai setelah menampilkan hasil atau pesan kesalahan.
+
+Program Python:
+
+![IMG_20241029_221708](https://github.com/user-attachments/assets/682656f3-3d21-43ef-8169-12afcb23cde2)
+
+
+Hasil Eksekusi Program:   
+
+    Contoh 1 Penjumlahan:   
     
+![IMG_20241029_222159](https://github.com/user-attachments/assets/014d4327-cbc0-4966-9797-fc174369234f)
+
+Penjelasan:
+
+Input:
+
+    Angka pertama yang dimasukkan adalah 10.
+    Angka kedua yang dimasukkan adalah 5.
+    Operator yang dipilih adalah + (penjumlahan).
+    
+Output:
+
+    Hasil dari operasi 10 + 5 adalah 15.0. Program menampilkan hasil ini kepada pengguna.
+
+. 
+
+    Contoh 2 Pengurangan:
+
+![IMG_20241029_222606](https://github.com/user-attachments/assets/f6b8d915-ae2c-40e8-9732-5db7602bc618)
+
+Penjelasan:
+
+Input:
+
+    Angka pertama yang dimasukkan adalah 10.
+    Angka kedua yang dimasukkan adalah 5.
+    Operator yang dipilih adalah - (pengurangan).
+    
+Output:
+
+    Hasil dari operasi 10 - 5 adalah 5.0. Program menampilkan hasil ini kepada pengguna.
+
+•    
+
+    Contoh 3 Perkalian:
+
+![IMG_20241029_222938](https://github.com/user-attachments/assets/d29d0cfc-5434-4f7f-9d8a-73cfb6dfc50a)
+    
+Penjelasan:
+
+Penjelasan:
+
+Input:
+
+    Angka pertama yang dimasukkan adalah 10.
+    Angka kedua yang dimasukkan adalah 5.
+    Operator yang dipilih adalah * (perkalian).
+
+Output:
+
+    Hasil dari operasi 10 * 5 adalah 50.0. Program menampilkan hasil ini kepada pengguna.
