@@ -140,6 +140,8 @@ Penjelasan Algoritma:
 
 Flowchart: 
 
+![IMG_20241030_145936](https://github.com/user-attachments/assets/2c690b1a-f7b1-4b99-bba9-70d8694c67e2)
+
 
 Program Python:
 
